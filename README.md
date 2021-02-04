@@ -19,3 +19,6 @@ Up arrow key to rotate.
 Down to speed up piece falling.
 
 ## Screenshots
+
+![First screenshot](/media/screenshot-one.png)
+![Second screenshot](/media/screenshot-two.png)
